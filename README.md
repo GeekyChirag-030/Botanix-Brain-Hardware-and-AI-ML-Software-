@@ -24,19 +24,22 @@ The project focuses on promoting environmental sustainability by suggesting plan
 ## User Interface Screenshots
 
 ### 1. Welcome Interface
-![Welcome Interface](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/2993ff46-364c-4f7b-acd4-e077b0a0c921)
+![P1](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/assets/96729663/7b1c8c31-2151-47db-abf3-9ec0a1083198)
+
 
 ### 2. Input Values
-![Input Values](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/0f363244-c1e3-4904-98b9-1d76e51d17e7)
+![P2](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/assets/96729663/a4187df1-d1d7-46e4-874d-d5033552116f)
 
 ### 3. Dashboard Interface
-![Dashboard Interface](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/ff5a9016-071a-4680-9994-475e1dd3ad93)
+![P3](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/assets/96729663/ff83477c-0300-460d-995d-de78d86d4bac)
+
+### 3* Values Filled Manually in Input Boxes
+![P4](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/assets/96729663/de1fe637-f405-4ea6-b1d6-1bb8fc47ad35)
 
 ### 4. Prediction Details
-![Prediction Details](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/9c7c88fd-ee76-4471-84b6-c902d93a95c5)
+![P5](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/assets/96729663/0627b078-3ac1-4ace-a94c-510e0697adc9)
 
-### 5. Interactive UI
-![Interactive UI](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/b95e595e-56e5-4c99-9384-91accc901922)
+
 
 ## Future Scope
 
