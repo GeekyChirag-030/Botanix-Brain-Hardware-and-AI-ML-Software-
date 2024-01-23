@@ -24,24 +24,19 @@ The project focuses on promoting environmental sustainability by suggesting plan
 ## User Interface Screenshots
 
 ### 1. Welcome Interface
-![Welcome Interface](assets/96729663/6d8efbc7-ad9a-432c-912a-1a98ffd7f64e)
-This is the starting interface, inviting users to begin their experience with Botanix Brain.
+![Welcome Interface](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/6d8efbc7-ad9a-432c-912a-1a98ffd7f64e)
 
 ### 2. Input Values
-![Input Values](assets/96729663/66b79ef1-711d-4459-846b-f59f02ecd2b3)
-Manually input values or automatically fill them with sensors if available. Features include Sunlight (0/1), Air Misture, Temperature, Humidity, and Air Quality.
+![Input Values](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/66b79ef1-711d-4459-846b-f59f02ecd2b3)
 
 ### 3. Dashboard Interface
-![Dashboard Interface](assets/96729663/31b1bae1-662f-4c32-8449-3122a36a34ef)
-The dashboard displays inputted values, providing a visual representation of environmental conditions using gauge charts for efficient UI experience.
+![Dashboard Interface](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/31b1bae1-662f-4c32-8449-3122a36a34ef)
 
 ### 4. Prediction Details
-![Prediction Details](assets/96729663/9d151e01-371d-4000-9f5c-a95aae35c863)
-Clicking on "Get Details" reveals predictions made by the model about which fruit will grow best in the specified soil conditions.
+![Prediction Details](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/9d151e01-371d-4000-9f5c-a95aae35c863)
 
 ### 5. Interactive UI
-![Interactive UI](assets/96729663/8c4e79b9-b0dc-42d3-a10d-7daed957749e)
-An interactive UI ensures a seamless experience for users, allowing them to explore predictions and make informed decisions.
+![Interactive UI](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/raw/main/assets/96729663/8c4e79b9-b0dc-42d3-a10d-7daed957749e)
 
 ## Future Scope
 
