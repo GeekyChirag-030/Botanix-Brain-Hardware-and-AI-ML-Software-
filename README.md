@@ -21,6 +21,26 @@ The system employs a blend of soil and climate sensors to gather environmental d
 
 The project focuses on promoting environmental sustainability by suggesting plant varieties best suited to the local environment. This approach reduces the need for fertilizers and pesticides, contributing to waste reduction.
 
+## Running with Sensors
+
+### Prerequisites
+1. Arduino board
+2. Soil and climate sensors (Sunlight, Moisture, Temperature, Humidity, Air Quality)
+
+### Steps
+1. Connect the sensors to the Arduino board.
+2. Upload the provided Arduino code to the board.
+3. Run the Botanix Brain software.
+4. The system will automatically fetch data from the connected sensors for analysis.
+
+## Manual Input
+
+### Steps
+1. Launch the Botanix Brain software.
+2. Manually input environmental data, including soil pH, temperature, humidity, sunlight exposure, and moisture levels.
+3. The software will analyze the provided data and generate plant recommendations.
+
+
 ## User Interface Screenshots
 
 ### 1. Welcome Interface
